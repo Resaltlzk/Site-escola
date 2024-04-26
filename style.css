@@ -6,3 +6,8 @@ color: white;
     width: 350px; 
 
 }
+.cabecalho{
+    background-color: #383D58;
+    color: white;
+    display: flex;
+}
